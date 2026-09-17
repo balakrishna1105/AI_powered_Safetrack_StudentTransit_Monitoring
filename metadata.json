@@ -1,0 +1,6 @@
+{
+  "name": "SafeRoute - School Bus & Student Safety Tracker",
+  "description": "Real-time school bus tracking, student roster verification, driver turn-by-turn navigation, and central admin dispatch console.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
